@@ -1,10 +1,15 @@
-
-Lista de componetes:
-1 ponte retificadora modelo: https://www.baudaeletronica.com.br/ponte-retificadora-kbu1010.html
+Lista de componentes:
+1 ponte retificadora KBPC2510: https://www.baudaeletronica.com.br/ponte-retificadora-25a-kbpc2510.html
 1 transformador AC 24V: https://www.baudaeletronica.com.br/transformador-trafo-1a-24v.html
-1 capacitor 470µF: https://www.baudaeletronica.com.br/capacitor-eletrolitico-470uf-50v.html
-1 potenciômetro de 10k : https://www.baudaeletronica.com.br/potenciometro-linear-de-10k-10000.html
-1 transistor NPN: https://www.baudaeletronica.com.br/transistor-npn-bc337.html
-1 diodo zenner: https://www.baudaeletronica.com.br/diodo-zener-1n5350b-13v-5w.html
-3 resistores
+1 capacitor 220µF(63V): https://www.baudaeletronica.com.br/capacitor-eletrolitico-470uf-100v.html
+1 potenciômetro de 5k : https://www.baudaeletronica.com.br/potenciometro-linear-de-5k-5000.html
+1 transistor NPN BC337: https://www.baudaeletronica.com.br/transistor-npn-bc337.html
+1 diodo zenner 13V(0,5W): https://www.baudaeletronica.com.br/diodo-zener-bzx55c-13v-0-5w.html
+1 resistor de 5k(0,25W): https://www.baudaeletronica.com.br/resistor-5k1-5-1-4w.html
+2 resistor de 2k(0,25W): https://www.baudaeletronica.com.br/resistor-2k-5-1-4w.html
+1 led vermelho alto brilho: https://www.baudaeletronica.com.br/led-de-alto-brilho-vermelho.html
 
+A fim de se obter uma estimativa do custo dessa fonte, o custo desses componentes
+foi checado no site de eletrônica https://www.baudaeletronica.com.br
+Custo total dos componentes: R$44,61.
+Custo aproximado do frete para São Carlos: R$23,03.
